@@ -4,7 +4,7 @@
 
 # This pipeline automates the deployment of the DRAGOT Calculator application
 trigger:
-- Mark_6
+- Mark_7
 
 parameters:
 - name: environment
@@ -16,7 +16,7 @@ parameters:
   - prod
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: DRAGOT_Pool
 
 variables:
   terraformVersion: '1.5.7'
