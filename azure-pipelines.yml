@@ -16,7 +16,7 @@ parameters:
   - prod
 
 pool:
-  vmImage: DRAGOT_Pool
+  name: DRAGOT_Pool
 
 variables:
   terraformVersion: '1.5.7'
