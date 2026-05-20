@@ -1,5 +1,5 @@
-# 🚀 DRAGOT – End-to-End Azure DevOps CI/CD Project  
----
+# ➕➖ DRAGOT ☁︎ Calculator ✖️➗
+
 ---
 
 [![Pipeline Status](https://img.shields.io/badge/Azure%20Pipeline-DRAGOT-success?style=for-the-badge&logo=azuredevops)](https://dev.azure.com/YOUR_ORG/YOUR_PROJECT/_build)
@@ -83,11 +83,17 @@ This project demonstrates how to automate the complete lifecycle of a cloud-nati
 # 🎯 Objectives
 
 ✅ Create an end-to-end DevOps setup using Azure DevOps and GitHub
+
 ✅ Provision Azure infrastructure using Terraform
+
 ✅ Build and deploy containerized applications
+
 ✅ Use Self-Hosted Agents for CI/CD execution
+
 ✅ Deploy applications into Azure Web App and AKS
+
 ✅ Automate infrastructure provisioning and deployment
+
 ✅ Generate dynamic Azure resource inventory reports
 
 ---
